@@ -1,0 +1,58 @@
+Pada pembelajaran ini
+Tools UI Designer = 
+- Adobe XD
+- InVisionapp.com = digunakan untuk pemuatan wireframe
+- Maze.design = tempat usability testing ke pengguna
+- whimsical.co = digunakan untuk user flow atau websie kita bekerja
+
+other notes on this link:
+https://docs.google.com/document/d/11OCnTA7unS22vUImI4NfxXSZzi4s8PfMhDLkqeRnJ-k/edit?usp=sharing
+
+
+--UX---
+ideation--
+---suatu proses awal untuk bangun sebuah product 
+    cari suatu masalah pengguna atau pasar
+    caru sebuah solusi untuk setiap masalah yang kita temukan
+    dan buat goals final
+
+workflow ux ideation--
+    brainstorming (product, CS, ddll) (development team, and all stakeholder)
+    how might we? (bagaimana mungkin kita)
+    validate => pembuatan wireframe, prototype, visual design hingga mendapatkan final product optimal
+
+--idea pembuatan website travel dan umroh--
+>> website, paket wisata, umroh <<
+   >> cetak with ibnu <<
+
+# Problems
+--- didapat dari suatu riset.. (data primer atau data skunder)
+-- contoh case:
+- sulit untuk mengikuti travel yang bisa dicicil
+- ketika umroh pihak agensi tidak ingin membantu membuatkan passport dan visa
+- Customizable (flight, hotel, jumlah hari dalam wisata) = jika ingin extend atau di luar paket yang di promo
+# Market/ user (ux/customer persona)
+-- Q: siapa pengguna?
+-- untuk membuat customer persona
+- persona:  anak muda (15-22)
+            25-40 (honeymoon, family trip, umroh)
+            agar dapat clue untuk design karena marketnya sudah di tentukan
+
+- customer persona akan dibuat dari InVisionapp
+https://projects.invisionapp.com/freehand/document/Fp3OvBI5a
+
+
+--setelah buat user persona maka riset tentang kompetitive analys--
+
+
+# Solution
+--- cicilan bunga rendah
+--- dapat di custom pilihan paket
+--- dapat bantuan untuk buat pasport dan visa (jika dibutuhkan)
+
+# Main goals
+-- fitur untuk menghubungkan pengguna dengan penyedia cicilan
+-- fitur untuk menambahkan hari pada setiap paket
+-- fitur/ buton untuk memastikan bahwa pengguna dapat dibantu membuat passport dan visa bisa atau tidak
+
+--banchmarking--
